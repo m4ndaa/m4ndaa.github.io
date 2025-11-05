@@ -117,12 +117,12 @@
 |Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |Void| A function that does not return a value. | `void printMessage() {}` |  |  |
 |Scanner|Creates a scanner object to take input from user |Scanner in = new Scanner(System.in);   |   |   |
-|import SCanner |Gives access to Scanner class, required at top |import java.util.Scanner;   |   |   |
-|    |    |   |   |   |
-|    |    |   |   |   |
-|    |    |   |   |   |
-|    |    |   |   |   |
-|    |    |   |   |   |
+|import Scanner |Gives access to Scanner class, required at top |import java.util.Scanner;   |   |   |
+|integer overflow    | Integer.MAX_VALUE + 1 == MIN_VALUE, it wraps around  |   |   |   |
+|Integer underflow    | Integer.MIN_VALUE - 1 == MAX_VALUE   |   |   |   |
+|round-off error    | an approx. of the actual value, result is rounded to the nearest value that fits within the available bits |   |   |   |
+|Overloaded method/function or constructor     | Use the same name, but has different parameters    | Pizza(), Pizza(String toppings) 2  |   |   |
+|dot notation    | Methods are called on objects using a dot after the object name   | object.method(value);  |   |   |
 |    |    |   |   |   |
 
 
