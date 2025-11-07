@@ -5,8 +5,10 @@
   - [Key Terms and Definition](#Key-Terms-and-Definitions)
   - [Layout and Design Widgets](layout-anda-design-widgets)
   - [Definitions with Structures](#flutter-definitions)
-- [Code Definition](#code-definition) 
+- [Code Definition](#code-definition)
+- [String notes](#string-notes)
 - [Notebook Style Guide](#Markdown-Style-Guide-for-Coding-Notebooks)
+- 
 ## Flutter Notes
 
 ### What is Flutter?
@@ -132,10 +134,9 @@
 ---
 
 
-### Layout and Design Widgets
-- How do you center a widget?
-- How do you align something to the left or right?
-- What widget adds space around content?
+ 
+### String Notes 
+Strings have indices (plural for index,) which start at 0. "Hello" has indices 0(H), 1(e), 2(l), 3(l), 4(o). 
 
 
 
